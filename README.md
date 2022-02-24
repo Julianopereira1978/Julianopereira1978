@@ -4,20 +4,20 @@
 
    🏛️ **I’m currently working at Post office**
  
- 📖 **I’m currently learning Analysis and Systems Development at Univali university**
+ 📖 **I’m currently learning Analysis and Systems Development at Univali University**
  
- 🐍 **which programming language am i currently studying? Python 😍**
+ 🐍 **Which programming language am I currently studying? Python 😍**
  
  👨‍💻 **I'm looking for my first job opportunity in the technology field**
  
- 💬 **Ask me about anything you want to know about me**
+ 💬 **Ask me anything you want to know about myself**
  
  📫 **How to contact me: juliano.pereira1978@outlook.com**
  
 <div align="center">
   <a href="https://github.com/Julianopereira1978">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Julianopereira1978&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianopereira1978&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Julianopereira1978&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianopereira1978&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
