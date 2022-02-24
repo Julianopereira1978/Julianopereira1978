@@ -6,7 +6,7 @@
  
  📖 **I’m currently learning Analysis and Systems Development at Univali University**
  
- 🐍 **Which programming language am I currently studying? Python 😍**
+ 🐍 **Which programming language am I studying at this moment? Python 😍**
  
  👨‍💻 **I'm looking for my first job opportunity in the technology field**
  
