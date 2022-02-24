@@ -10,7 +10,7 @@
  
  👨‍💻 **I'm looking for my first job opportunity in the technology field**
  
- 💬 **Ask me anything you want to know about myself**
+ 💬 **Ask something you want to know about myself**
  
  📫 **How to contact me: juliano.pereira1978@outlook.com**
  
